@@ -1,10 +1,8 @@
 ## Hola there, I'm Rushik 👋
 
-💻 I'm proficient in __ReactJs, NextJs, Angular along with NodeJs and .Net.__
+💻 I'm proficient in __.Net, ReactJs, NextJs, Angular along with hands on of Azure and AWS.__
 
 🔭 I’m currently working on __Full Stack App__
 
-🌱 I’m currently learning __Next.js, Nodejs, MongoDB.__
-
-💞️ I’m looking to collaborate on __Next.js, React.js, Node.js, Express.js.__
+🌱 I’m currently learning __Architecturing the microservices with scalable design pattern__
 
