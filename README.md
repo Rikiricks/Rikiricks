@@ -1,4 +1,5 @@
-## Hola there, I'm Rushik 👋
+## Hola there, I'm Rushik <img src="https://github.com/user-attachments/assets/d7203b13-ace5-41d1-8a2c-4d5ebbf6752c" alt="Solo h" style="width:20px;height:20px" />
+
 
 <img src="https://github.com/user-attachments/assets/073c7b40-d4f2-4ca5-81c9-1d79bde92699" alt="Solo" style="width:20px;height:20px" /> I'm proficient in __.Net, ReactJs, NextJs, Angular along with hands on of Azure and AWS__
 
