@@ -1,10 +1,10 @@
 ## Hola there, I'm Rushik 👋
 
-🥷 I'm proficient in __.Net, ReactJs, NextJs, Angular along with hands on of Azure and AWS.__
+<img src="https://github.com/user-attachments/assets/073c7b40-d4f2-4ca5-81c9-1d79bde92699" alt="Solo" style="width:20px;height:20px" /> I'm proficient in __.Net, ReactJs, NextJs, Angular along with hands on of Azure and AWS__
 
-⚔️ I’m currently working on __Full Stack App__ along with **Microservices** architecture
+<img src="https://github.com/user-attachments/assets/81e932cb-cf52-4dca-bf73-2e233653c92c" alt="Solo 2" style="width:20px;height:20px" /> I’m currently working on __Full Stack App__ along with **Microservices** architecture
 
-🤺 I’m currently learning __Architecturing the microservices with scalable design pattern__
+<img src="https://github.com/user-attachments/assets/bbf3aa16-9229-41a4-9cf3-7f9cf2183bf1" alt="Solo 2" style="width:20px;height:20px" /> I’m currently learning __Architecturing the microservices with scalable design pattern__
 
 ##
 
