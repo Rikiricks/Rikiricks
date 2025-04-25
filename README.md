@@ -29,5 +29,6 @@
 
 <img src="https://github.com/Rikiricks/Rikiricks/blob/main/red-dagger-h.jpg" alt="Red" style="width:35px;height:15px;" /> [NodeJs-App](https://github.com/Rikiricks/NodeJS-Foundation) & [NodeJSExpressMongo](https://github.com/Rikiricks/NodeExpressMongo): As lover of javascript, engaged with **NodeJs** backend application along with **expressJs** and no-sql db like **mongoDB**.
 
+<img src="https://github.com/Rikiricks/Rikiricks/blob/main/red-dagger-h.jpg" alt="Red" style="margin-top:20px;width:35px;height:15px;" /> [Desgin-Patterns](https://github.com/Rikiricks/DesignPatterns): POC of pragmatic usecases of essential design-pattern in c#.
 
 
