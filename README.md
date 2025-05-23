@@ -5,7 +5,7 @@
 
 <img src="https://github.com/user-attachments/assets/81e932cb-cf52-4dca-bf73-2e233653c92c" alt="Solo 2" style="width:20px;height:20px" /> I’m currently working on __Full Stack App__ along with **Microservices** architecture
 
-<img src="https://github.com/user-attachments/assets/bbf3aa16-9229-41a4-9cf3-7f9cf2183bf1" alt="Solo 2" style="width:20px;height:20px" /> I’m currently learning __Architecturing the microservices with scalable design pattern__
+<img src="https://github.com/user-attachments/assets/bbf3aa16-9229-41a4-9cf3-7f9cf2183bf1" alt="Solo 2" style="width:20px;height:20px" /> I’m currently learning __implemention of AI-powered capabilites using Azure Services__
 
 ##
 
